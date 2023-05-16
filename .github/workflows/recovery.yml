@@ -63,6 +63,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
          with:
           tag_name: TWRP_10.0
-          name: TWRP-KD7
+          name: TWRP-KE5k
           files: | 
-            work/out/target/product/KD7/recovery.img
+            work/out/target/product/KE5k/recovery.img
