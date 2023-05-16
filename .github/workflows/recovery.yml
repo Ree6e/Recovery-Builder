@@ -14,9 +14,9 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni -b twrp-10.0-deprecated
-  DEVICE: KD7
-  DT_LINK: https://github.com/mastersenpai0405/recovery_device_tecno_KD7
-  DT_PATH: device/tecno/KD7
+  DEVICE: KE5k
+  DT_LINK: https://github.com/twrpdtgen/android_device_tecno_TECNO-KE5k/tree/full_ke5k_h6122-user-10-QP1A.190711.020-117739-release-keys
+  DT_PATH: device/tecno/KE5k
   TARGET: recoveryimage
   TZ: Asia/manila
 
